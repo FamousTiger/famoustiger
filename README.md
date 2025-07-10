@@ -1,30 +1,39 @@
 ## Hi there 👋
-
 I like clouds ☁️
-I have the below three marquee certifications from AWS:
 
-* AWS Certified Solutions Architect - Professional
-* AWS Certified Big Data - Specialty
-* AWS Certified Security - Specialty
+#AWS Certified | Cloud Solutions Architect | Video/Audio Streaming Specialist
+Certifications:
 
-Expert AWS Cloud Solutions Architect + Technology Leader and hands on engineer with 12+ years of experience in building enterprise applications, scalable services platforms and frameworks across multiple domains like Insurance and product development with multinational product and global consulting companies and startups
+AWS Certified Solutions Architect – Professional
+AWS Certified Big Data – Specialty
+AWS Certified Security – Specialty
+About Me:
+Expert AWS Cloud Solutions Architect and hands-on engineer with 12+ years of experience building enterprise applications and scalable platforms. Proven technology leader across insurance, product development, consulting, and startup domains.
 
-Specializing in:
-* AWS cloud computing - Building Backend APIs using Nodejs, Lambda, S3, Dynamodb, Neptune GraphDB and Apigateway.
-. AWS IoT with Greengrass.. Experience deploying lambda and managing containers on the edge devices
-* Docker, ECS, Fargate, EKS, EC2 and cluster management
-* Experience building extensive data pipelines using Kinesis, Firehose, Lambda, S3, Elastic search and EMR.
-* Devops CI/CD through Cloud formation, Code pipeline, Code build, ELK and elasticsearch
-* Extensive knowledge of AWS RDS aurora, Oracle and mysql databases.
-* Technology Strategy, Large Platform Architectures
-• Experience in designing high scale applications and securing edge to end applications and databases for the cloud
-• Familiar with regulatory compliance and audit frameworks including HIPAA, PCI, GDPR, SOC-2, ISO
-• Solid understanding of data protection policies, procedures, privacy rules and regulations, data security, encryption, digital rights management, data loss prevention
-* Multi-Tenant, n-Tier, business critical, scalable solutions
-* Service Oriented Architecture (SOA), transitioning large existing products and platforms to SOA
-* Systems Integration and Design
-* Architecture Governance - Roadmaps, IT Planning
-* Full life-cycle projects delivery and maintenance
-* Working with globally distributed (on-shore and off-shore) development teams
-* Multiple development methodologies - MSF, Agile, Kanban, Waterfall
-* Proven catalyst for software development
+#Cloud & DevOps Specialization
+AWS Cloud Computing: Architecting secure, high-scale cloud applications using Lambda, S3, DynamoDB, Neptune, API Gateway, IoT (Greengrass), and containerization (Docker, ECS, EKS, Fargate).
+Data Engineering: Building real-time data pipelines with Kinesis, Firehose, Lambda, S3, EMR, ElasticSearch.
+DevOps & CI/CD: CloudFormation, CodePipeline, CodeBuild, automation, and monitoring (CloudWatch, ELK).
+Databases: AWS RDS (Aurora), MySQL, PostgreSQL, Oracle, DynamoDB.
+Security & Compliance: Deep understanding of cloud security, encryption, governance, and compliance frameworks (HIPAA, PCI, GDPR, SOC-2, ISO).
+
+#Video/Audio Streaming & VoIP Expertise
+WebRTC, VoIP/SIP: End-to-end design & deployment of real-time video/audio streaming and VoIP solutions.
+Streaming Tools: FFMPEG, Kurento, Wowza, Jitsi, Agora, Mux, AWS Elemental Media Services.
+Telephony Systems: Asterisk, FreeSWITCH – implementing auto-calling, IVR, AGI, MWI, SIP/PBX.
+Media Processing: GStreamer, advanced video/audio pipelines, recording, and transcoding.
+WebRTC & Real-Time Apps: Custom web apps with React/Redux, Next.js, and Node.js.
+
+#Full-Stack Engineering
+Backend APIs: Node.js, Python, RESTful APIs, Serverless, GraphQL (AppSync), Lambda.
+Frontend: React/Redux, Next.js, Vue.js.
+Databases: DynamoDB, MongoDB, RDS (Aurora, MySQL, PostgreSQL).
+Containers & Orchestration: Docker, Kubernetes.
+CI/CD & Cloud: Jenkins, Terraform, AWS, Azure, GCP.
+
+#Additional Skills & Tools
+Programming: JavaScript (ES6+), TypeScript, Python, PHP, C#
+Project Management: Jira, Trello, Git
+I’m passionate about cloud-native architecture, real-time streaming, and delivering robust, scalable solutions. Always eager to tackle new challenges and collaborate with global teams.
+
+Let’s build something amazing!
