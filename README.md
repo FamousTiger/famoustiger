@@ -1,10 +1,118 @@
-<h1 align="center">☁️ Hi there, I'm a Cloud & Streaming Architect! ☁️</h1>
+<h1 align="center">👋 Hi, I'm a Senior Full-Stack Developer & Cloud Architect</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Professional,Big%20Data,Security-orange?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Solutions%20Architect-blue" />
-  <img src="https://img.shields.io/badge/Video%20Streaming-Expert-brightgreen" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Architect-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Engineer-green?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <em>Passionate about building scalable, modern applications with cutting-edge technologies</em>
+</p>
+
+---
+
+## 🚀 About Me
+
+Senior developer specializing in **full-stack development**, **cloud architecture**, and **AI integration**. I build robust, scalable solutions across web, mobile, and enterprise platforms, with expertise in modern frameworks, cloud infrastructure, and emerging AI technologies.
+
+---
+
+## 💻 Frontend Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+</p>
+
+- **Core:** JavaScript, TypeScript, HTML5, SCSS
+- **React Ecosystem:** React, Next.js, NextUI, NextAuth, Redux, Context API
+- **Vue Ecosystem:** Vue.js, Nuxt.js, Quasar, Vuetify
+- **Angular:** Angular, RxJS, NgRx
+- **Styling:** Tailwind CSS, ShadcnUI, MUI, Framer Motion
+- **APIs:** tRPC, GraphQL, REST
+
+---
+
+## ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+- **Node.js:** Express.js, Nest.js, Serverless Framework
+- **Python:** Flask, Django, FastAPI
+- **C#:** .NET, Entity Framework, SignalR
+- **PHP:** Laravel
+- **Databases:** PostgreSQL, MySQL, MongoDB, MSSQL, Redis, ElasticSearch
+- **ORMs:** Sequelize, Prisma
+- **Cloud DB:** Supabase
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+</p>
+
+- **AI Platforms:** OpenAI, Cursor AI, CrewAI, Sonnet, Gemini, GPT-4o
+- **ML Tools:** LangChain, Pinecone, Llama, Ollama
+- **AI Development:** Custom Chatbots, AI Agents, Model Training
+- **Voice AI:** VAPI, RetellAI, BlandAI
+- **Communication:** Twilio, Telnyx, LiveKit
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+</p>
+
+- **AWS Services:** EC2, S3, Lambda, API Gateway, CloudFront, Route53, SNS/SQS
+- **Containers:** Docker, Kubernetes, K3s, ECS/Fargate, EKS/ECR
+- **Infrastructure as Code:** Terraform, Pulumi, CloudFormation
+- **CI/CD:** CodeBuild, CodeDeploy, CodePipeline, Jenkins, Git Actions
+- **Monitoring:** CloudWatch
+- **Orchestration:** Ansible
+
+---
+
+## 🎥 Media & Communication
+
+<p>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+</p>
+
+- **Video Streaming:** WebRTC, FFMPEG, AWS KVS, H.264/H.265, Wowza
+- **VoIP Systems:** Asterisk (Dialplan, Extension, DAHDI, AGI/AMI)
+- **Telephony:** FreePBX, OpenSips, FreeSwitch
+
+---
+
+## 💳 Payment & Integration APIs
+
+- **Payment Processing:** Stripe, Plaid, Authorize.NET, eProcessingNetwork, NationalMerchant
+- **Cryptocurrency:** Crypto payment integrations
+- **Automation:** n8n, Make.com, Zapier
+- **CRM:** Airtable, Zoho, GoHighLevel (GHL)
 
 ---
 
@@ -16,64 +124,26 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Stats
 
-**12+ years** of experience designing, building, and deploying enterprise applications and scalable platforms. Proven technology leader across insurance, product development, consulting, and startups.
-
----
-
-## ☁️ Cloud & DevOps
-
-- **AWS Architecture:** Lambda, S3, DynamoDB, Neptune, API Gateway, IoT (Greengrass)
-- **Containers:** Docker, ECS, EKS, Fargate
-- **Data Pipelines:** Kinesis, Firehose, S3, EMR, Elasticsearch
-- **DevOps:** CloudFormation, CodePipeline, CodeBuild, CloudWatch, CI/CD automation
-- **Databases:** Aurora, MySQL, PostgreSQL, DynamoDB, Oracle
-- **Security & Compliance:** HIPAA, PCI, GDPR, SOC-2, ISO
-
----
-
-## 📺 Video/Audio Streaming & VoIP
-
-- **WebRTC & VoIP/SIP:** Real-time video/audio streaming solutions
-- **Streaming Tools:** FFMPEG, Kurento, Wowza, Jitsi, Agora, Mux, AWS Elemental Media
-- **Telephony:** Asterisk, FreeSWITCH (auto-calling, IVR, AGI, MWI)
-- **Media Processing:** GStreamer, advanced pipelines, transcoding
-- **Real-Time Apps:** React, Redux, Next.js, Node.js
-
----
-
-## 🚀 Full-Stack Engineering
-
-- **Backend:** Node.js, Python, REST APIs, GraphQL (AppSync), Serverless
-- **Frontend:** React/Redux, Next.js, Vue.js
-- **Databases:** DynamoDB, MongoDB, RDS, Aurora, MySQL, PostgreSQL
-- **Infrastructure:** Docker, Kubernetes, Jenkins, Terraform, AWS, Azure, GCP
-
----
-
-## 🛠️ Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/FFMPEG-informational?logo=ffmpeg" />
-  <img src="https://img.shields.io/badge/FreeSWITCH-informational" />
-  <img src="https://img.shields.io/badge/WebRTC-informational" />
-  <img src="https://img.shields.io/badge/Asterisk-informational" />
-  <img src="https://img.shields.io/badge/Node.js-informational?logo=node.js" />
-  <img src="https://img.shields.io/badge/React-informational?logo=react" />
-  <img src="https://img.shields.io/badge/Vue.js-informational?logo=vue.js" />
-  <img src="https://img.shields.io/badge/Docker-informational?logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Git-informational?logo=git" />
-  <img src="https://img.shields.io/badge/Jira-informational?logo=jira" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, PHP, C#
-- **Project Management:** Jira, Trello, Git
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm passionate about cloud-native architecture, real-time streaming, and building robust, scalable solutions.  
-**Always eager to tackle new challenges and collaborate globally.**
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <em>Always eager to collaborate on innovative projects and tackle new challenges!</em>
+</p>
